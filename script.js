@@ -8,7 +8,7 @@ const products = [
         name: "Bộ Tole Bé Gái Hoa Xinh",
         price: 99000,
         category: "girl",
-        image: "images/sp01.jpg",
+        image: "images/sp01.JPG",
         sizes: ["1", "2", "3", "4"]
     },
 
@@ -17,7 +17,7 @@ const products = [
         name: "Bộ Tole Bé Gái Dễ Thương",
         price: 109000,
         category: "girl",
-        image: "images/sp02.jpg",
+        image: "images/sp02.JPG",
         sizes: ["1", "2", "3", "4"]
     },
 
@@ -26,7 +26,7 @@ const products = [
         name: "Bộ Tole Bé Trai Năng Động",
         price: 99000,
         category: "boy",
-        image: "images/sp03.jpg",
+        image: "images/sp03.JPG",
         sizes: ["1", "2", "3", "4"]
     },
 
@@ -35,7 +35,7 @@ const products = [
         name: "Bộ Tole Bé Xinh Xắn",
         price: 119000,
         category: "all",
-        image: "images/sp04.jpg",
+        image: "images/sp04.JPG",
         sizes: ["1", "2", "3", "4"]
     }
 ];
